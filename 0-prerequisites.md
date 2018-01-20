@@ -19,3 +19,10 @@
 3. __Notebook instance name__ 입력 후 `Create Notebook Instance` 클릭
   ![Sagemaker](https://github.com/awskrug/reinvent2017-recap-workshop/blob/master/img/Screen%20Shot%202018-01-20%20at%203.49.28%20AM.png)
 
+## 3. Amazon Sagemaker Notebook에서 git pull
+
+```bash
+%%bash
+git clone https://github.com/awskrug/reinvent2017-recap-workshop.git
+```
+
