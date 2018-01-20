@@ -17,5 +17,5 @@
 1. Services > Amazon SageMaker 선택
 2. Dashboard 패널에서 `Create Notebook Instance` 클릭
 3. __Notebook instance name__ 입력 후 `Create Notebook Instance` 클릭
-  ![Sagemaker]("img/Screen Shot 2018-01-20 at 3.45.44 AM")
+  ![Sagemaker](https://github.com/awskrug/reinvent2017-recap-workshop/blob/master/img/Screen%20Shot%202018-01-20%20at%203.49.28%20AM.png)
 
