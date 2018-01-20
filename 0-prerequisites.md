@@ -21,6 +21,10 @@
 
 ## 3. Amazon Sagemaker Notebook에서 git pull
 
+![Notebook](https://github.com/awskrug/reinvent2017-recap-workshop/blob/master/img/Screen%20Shot%202018-01-20%20at%2011.57.17%20AM.png)
+
+![Notebook](https://github.com/awskrug/reinvent2017-recap-workshop/blob/master/img/Screen%20Shot%202018-01-20%20at%2011.57.49%20AM.png)
+
 ```bash
 %%bash
 git clone https://github.com/awskrug/reinvent2017-recap-workshop.git
